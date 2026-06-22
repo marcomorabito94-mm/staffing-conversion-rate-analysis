@@ -2,7 +2,8 @@
 
 **Domain:** Retail operations / HR planning  
 **Methods:** Exploratory analysis, correlation analysis, z-score anomaly detection, OLS regression  
-**Stack:** Python · pandas · numpy · seaborn · matplotlib · scikit-learn
+**Stack:** Python · pandas · numpy · seaborn · matplotlib · scikit-learn.
+
 
 ---
 
