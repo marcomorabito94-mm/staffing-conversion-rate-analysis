@@ -51,4 +51,4 @@ jupyter notebook staffing_conversion_rate_analysis.ipynb
 
 ## Follow-up
 
-One store implemented a weekend shift redistribution (no additional headcount). The causal impact of that intervention is measured using a Difference-in-Differences approach in the companion repo: [`did-staffing-intervention`](/did-staffing-intervention).
+One store implemented a weekend shift redistribution (no additional headcount). The causal impact of that intervention is measured using a Difference-in-Differences approach in the companion repo: [`did-staffing-intervention`](../did-staffing-intervention).
