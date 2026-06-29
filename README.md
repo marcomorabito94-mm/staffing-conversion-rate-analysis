@@ -4,6 +4,7 @@
 **Methods:** Exploratory analysis, correlation analysis, z-score anomaly detection, OLS regression  
 **Stack:** Python · pandas · numpy · seaborn · matplotlib · scikit-learn.
 
+> **Note on data** The dataset in `data/store_hourly_data.csv` is **synthetic**. It was generated to replicate the structure, distributions and statistical patterns of a real analysis conducted on retail store data — without exposing any proprietary or confidential information.
 
 ---
 
