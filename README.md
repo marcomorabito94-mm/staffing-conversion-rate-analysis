@@ -1,4 +1,4 @@
-# Staffing Adequacy and Weekend Conversion Rate in Retail
+# Staffing Adequacy and Weekend Conversion Rate in Retail 
 
 **Domain:** Retail operations / HR planning  
 **Methods:** Exploratory analysis, correlation analysis, z-score anomaly detection, OLS regression  
